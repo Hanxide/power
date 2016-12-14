@@ -16,6 +16,7 @@ public class LoginController {
         System.out.println("initAaa");
         System.out.println("initAaa");
         System.out.println("initAaa");
+        System.out.println("initAaa");
         return "aaa";
     }
 }
