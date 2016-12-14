@@ -14,9 +14,6 @@ public class LoginController {
     @RequestMapping("/initAaa")
     public String initAaa(){
         System.out.println("initAaa");
-        System.out.println("initAaa");
-        System.out.println("initAaa");
-        System.out.println("initAaa");
         return "aaa";
     }
 }
